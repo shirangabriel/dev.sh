@@ -57,5 +57,7 @@ code --install-extension naumovs.color-highlight #Color Highlight
 code --install-extension Gruntfuggly.todo-tree   #Todo Tree
 code --install-extension PKief.material-icon-theme   #Material Icon Theme
 code --install-extension eamodio.gitlens #GitLens
+code --install-extension wix.vscode-import-cost #Import Cost
+
 
 
