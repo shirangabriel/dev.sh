@@ -10,7 +10,9 @@ This script automates the process of setting up a macOS machine for React Native
 ## Usage
 
 To use the script, run the following command in your terminal:
-
+```
+bash/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/shirangabriel/dev.sh/main/react-native.sh)"
+```
 
 
 This will download and run the script.
